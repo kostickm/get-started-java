@@ -42,6 +42,7 @@ To deploy to Bluemix using command line, it can be helpful to set up a manifest.
 The manifest.yml is provided in the sample.
 
   ```
+  ---
   applications:
   - path: target/GetStartedJava.war
     memory: 512M
