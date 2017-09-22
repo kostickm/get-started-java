@@ -50,7 +50,7 @@ The manifest.yml is provided in the sample.
     host: your-appname-here
   ```
 
-Change both the *name* and *host* to a single unique name of your choice. Note that the *host* value will be used in your public url, for example, http://your-appname-here.mybluemix.net. If you already created an app from the Bluemix UI but haven't pushed your code to it, you can use the same name value. Make sure the path points to the built application, for this example the location is `target/JavaHelloWorldApp.war`.
+Change both the *name* and *host* to a single unique name of your choice. Note that the *host* value will be used in your public url, for example, http://your-appname-here.mybluemix.net. If you already created an app from the Bluemix UI but haven't pushed your code to it, you can use the same name value. Make sure the path points to the built application, for this example the location is `target/GetStartedJava.war`.
 
 Choose your API endpoint
    ```
